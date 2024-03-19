@@ -1,2 +1,2 @@
-chatterbot
-speechrecognition
+SpeechRecognition==3.8.1
+chatterbot==1.1.0
